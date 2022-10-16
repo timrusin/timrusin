@@ -4,7 +4,7 @@ Hi 👋 My name is Tim Rusin
 Full-Stack software and web developer
 -------------------------------------
 
-I am a relatively new engineer looking for my first full-time development gig. I'm looking for a collaborative environment with strong mentorship for new engineers to help them grow and become a successful asset within the company they are all a part of. I am very much interested in front-end development as I love the creativity behind it all. I am also very interested in the full-stack nature of development and have some experience with back-end work as well.
+I am a relatively new developer looking for my first full-time gig. I'm looking for a collaborative environment with strong mentorship for new developers to help them grow and become a successful asset within the company they are all a part of. I am very much interested in front-end development as I love the creativity behind it all. I am also very interested in the full-stack nature of development and have some experience with back-end work as well.
 
 * 🌍  I'm based in Chicago, IL
 * ✉️  You can contact me at [timrusin@gmail.com](mailto:timrusin@gmail.com)
